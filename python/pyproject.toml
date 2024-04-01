@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cdc-out-examples"
+version = "0.1.0"
+description = "Python examples of CDC out in SingleStore v8.5+"
+authors = ["Sam De Roeck <sadroeck@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
