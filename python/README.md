@@ -1,7 +1,5 @@
 # Python code example for CDC out with SingleStore v8.5+
 
-## Example
-
 This example demonstrates how to use the SingleStore CDC out feature to replicate data from a given table on a source
 database to a mirrored table on a target database.
 This is done using OBSERVE queries to capture transactional changes
