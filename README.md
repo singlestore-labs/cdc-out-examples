@@ -1,7 +1,9 @@
-# cdc-out-examples
+# Code examples for SingleStore CDC out
 
 This repository contains a list of code examples for CDC out in various languages.
-See the README's in each subdirectory for more information.
+CDC out will be supported in SingleStore starting from v8.5.x
+
+See the README's in each subdirectory for more information:
 
 * [Python](./python/README.md)
 
