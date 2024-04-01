@@ -7,7 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-
+mysqlclient = "^2.2.0"
+mysql-connector = "^2.2.9"
+mysql-connector-python = "^8.0.32"
 
 [build-system]
 requires = ["poetry-core"]
