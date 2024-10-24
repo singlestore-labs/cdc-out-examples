@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.11"
 mysqlclient = "^2.2.0"
 mysql-connector = "^2.2.9"
-mysql-connector-python = "^8.0.32"
+mysql-connector-python = "^9.1.0"
 
 [build-system]
 requires = ["poetry-core"]
